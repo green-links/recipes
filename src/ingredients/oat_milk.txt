@@ -1,0 +1,10 @@
+v0.1:
+    
+    ingredients:
+
+        oat_milk:
+            name: Oat Milk
+            
+            unit:
+                single: 1 gram
+                plural: {n} grams

@@ -1,0 +1,9 @@
+v0.1:
+    
+    ingredients:
+
+        water:
+            name: Water
+            unit:
+                single: 1 gram
+                plural: {n} grams

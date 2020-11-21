@@ -1,0 +1,9 @@
+v0.1:
+    
+    ingredients:
+
+        salt:
+            name: Salt
+            unit:
+                single: 1 gram
+                plural: {n} grams

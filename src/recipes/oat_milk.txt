@@ -1,0 +1,23 @@
+v0.1:
+    
+    recipes:
+
+        oat_milk:
+            produces: oat_milk
+            quantity: 120
+
+            equipment:
+                - blender x 1
+                - collander x 1
+                - bowl x 2
+                - cheesecloth x 1
+
+            ingredients:
+                - oats x 120
+                - water x 480
+                - salt x 15
+
+            time:
+                8 hours
+
+            instructions: INSTRUCTIONS.
